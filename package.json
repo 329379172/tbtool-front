@@ -1,14 +1,14 @@
 {
   "name": "tbtool-front",
   "version": "1.0.0",
-  "description": "A minimal Electron application",
+  "description": "LinFeiyang's tbtool",
   "main": "main.js",
   "scripts": {
     "start": "electron main.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/atom/electron-quick-start.git"
+    "url": "https://github.com/329379172/tbtool-front"
   },
   "keywords": [
     "Electron",
@@ -19,9 +19,9 @@
   "author": "GitHub",
   "license": "CC0-1.0",
   "bugs": {
-    "url": "https://github.com/atom/electron-quick-start/issues"
+    "url": "https://github.com/329379172/tbtool-front"
   },
-  "homepage": "https://github.com/atom/electron-quick-start#readme",
+  "homepage": "https://github.com/329379172/tbtool-front",
   "devDependencies": {
   }
 }
